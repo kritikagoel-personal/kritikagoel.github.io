@@ -6,11 +6,6 @@ tags: [jekyll]
 Kritika Goel
 
 <strong>Mailing Address:</strong><br/> 
-Kritika Goel
-Boston College 
-Department of Economics
-Maloney Hall
-140 Commonwealth Ave
-Chestnut Hill, MA 02467 
+Kritika Goel, Boston College, Department of Economics, Maloney Hall, 140 Commonwealth Avenue, Chestnut Hill, MA 02467 
 <br/>
 <strong>Email:</strong> goelk@bc.edu  

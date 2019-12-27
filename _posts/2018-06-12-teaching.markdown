@@ -8,8 +8,7 @@ tags: [jekyll]
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
-<h5 id="masters"><strong>Masters</strong></h5>
 <ul>
  <li> Microeconomic Theory I and II (PhD Level)  &middot; <em>2018-2019</em>  </li>
   <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019</em> 
-</ul>
+

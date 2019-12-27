@@ -1,14 +1,14 @@
 # Site settings
-title: Vinayak Iyer
-description: 4th Year PhD Candidate, Department of Economics, Columbia University
-url: 'https://vinayakiyer.github.io'
+title: Kritika Goel
+description: 3rd Year PhD Candidate, Department of Economics, Boston College
+url: 'https://kritikagoel.github.io'
 baseurl: ""
 google_analytics: 'UA-154586808-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Vinayak Iyer'
-  email: vi2137@columbia.edu
+  name: 'Kritika Goel'
+  email: goelk@bc.edu
 
 defaults:
   -

@@ -3,8 +3,14 @@ title:  "Contact"
 categories: [jekyll]
 tags: [jekyll]
 ---
-Vinayak Iyer
+Kritika Goel
 
-<strong>Mailing Address:</strong><br/> 420 W 118th Street, Department of Economics, Columbia University, NY - 10027  
+<strong>Mailing Address:</strong><br/> 
+Kritika Goel
+Boston College 
+Department of Economics
+Maloney Hall
+140 Commonwealth Ave
+Chestnut Hill, MA 02467 
 <br/>
-<strong>Email:</strong> vi2137@columbia.edu  
+<strong>Email:</strong> goelk@bc.edu  

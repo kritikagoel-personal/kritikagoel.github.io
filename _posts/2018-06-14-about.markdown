@@ -3,9 +3,8 @@ title:  "About"
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am a 4th year PhD Candidate in the Department of Economics at Columbia University. My primary research interests are in the fields of Urban Economics, Applied Micro and Industrial Organization.
+I am a 3rd year PhD Candidate in the Department of Economics at Boston College. My primary research interests are in the fields of Applied Micro, Industrial Organization, and Health Economics.
 
-Before joining Columbia, I completed my Masters from Delhi School of Economics in 2015.
+Before joining Boston College, I completed my Masters from Delhi School of Economics in 2015.
 
-Apart from research, I like playing chess and squash.
 

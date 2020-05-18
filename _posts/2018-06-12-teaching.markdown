@@ -10,5 +10,6 @@ tags: [jekyll]
 -->
 <ul>
  <li> Microeconomic Theory I and II (PhD Level)  &middot; <em>2018-2019</em>   </li>
-  <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019</em> <--(<a href=".{{ site.baseurl }}/files/ECON115008_2020F_Discussion Group--Statistics_Kritika_Goel_8ab89e2c-8380-436e-8a2b-2740f667c08ben-US.pdf" target="_blank"><em>Evaluations</em></a>)-->
+  <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019</em> <--(<a href=".{{ site.baseurl }}/files/ECON115008_2020F_Discussion Group--Statistics_Kritika_Goel_8ab89e2c-8380-436e-8a2b-2740f667c08ben-US.pdf" target="_blank"><em>Evaluations 1</em></a>)--> <--(<a href=".{{ site.baseurl }}/files/ECON115007_2020F_Discussion Group--Statistics_Kritika_Goel_a306b28b-2e48-4f51-9449-f23f1e0648d4en-US.pdf" target="_blank"><em>Evaluations 2</em></a>)--> </li> </li>
+<li>Statistics Lab (Undergraduate) &middot; <em>Spring 2020</em> </li>
 

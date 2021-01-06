@@ -3,7 +3,7 @@ title:  "About"
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am a 3rd year PhD Candidate in the Department of Economics at Boston College. My primary research interests are in the fields of Applied Micro, Industrial Organization, and Health Economics.
+I am a 4th year PhD Candidate in the Department of Economics at Boston College. My primary research interests are in the fields of Applied Micro, Industrial Organization, and Health Economics.
 
 Before joining Boston College, I completed my Masters from Delhi School of Economics in 2015.
 

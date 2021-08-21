@@ -9,10 +9,8 @@ tags: [jekyll]
 
 <h4 id="job-market-paper">Job Market Paper</h4>
 <ul>
-  <h5><b>Title of Paper</b>
-(<a href=" target="_blank"><em>Draft</em></a>)(<a href="" target="_blank"><em>Slides</em></a>)</h4>
-<details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
-</ul>
+  <h5><b>The welfare effects of price discrimination when product entry is endogenous: the case of implantable medical devices</b>
+
 
 
 <h4 id="publications"><strong>Publications</strong></h4>

@@ -19,13 +19,15 @@ tags: [jekyll]
 (<a href=" target="_blank"><em>Draft</em></a>)(<a href="" target="_blank"><em>Slides</em></a>)</h4>
 <details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
 </ul>
--->
+\
 
+<!---
 
 <h3 id="job-market-paper">Job Market Paper</h3>
 <ul>
   <h4><b>The welfare effects of price discrimination when product offerings are endogenous; the case of Implantable Medical Devices</b> (coming soon) 
 <ul>
+-->
 
   
   

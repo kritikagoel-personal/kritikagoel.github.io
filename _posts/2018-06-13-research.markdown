@@ -17,7 +17,7 @@ tags: [jekyll]
 
 <h4 id="jmp"><strong>Job Market Paper</strong></h4>
 <ul>
-  <h5><b>Public Health Facilities in North India:An Exploratory Study in Four States</b> (<a href="/files/epw_paper.pdf" target="_blank"><em>Draft</em></a>) , (with <em>Reetika Khera</em>),  
+  <h5><b>The welfare effects of price discrimination when product entry is endogenous; the case of implantable medical devices/b> ,  
 
 
 <h4 id="publications"><strong>Publications</strong></h4>

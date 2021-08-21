@@ -4,8 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-<p>My primary fields are Applied Micro, Industrial Organization and Health Economics.
-</p>
+
 
 <!---
 <h3 id="job-market-paper">Job Market Paper</h3>
@@ -15,6 +14,12 @@ tags: [jekyll]
 <details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
 </ul>
 -->
+
+<h2 id="jmp"><strong>Job Market Paper</strong></h4>
+<ul>
+  <h3><b>Public Health Facilities in North India:An Exploratory Study in Four States</b> (<a href="/files/epw_paper.pdf" target="_blank"><em>Draft</em></a>) , (with <em>Reetika Khera</em>),  
+
+
 <h4 id="publications"><strong>Publications</strong></h4>
 <ul>
   <h5><b>Public Health Facilities in North India:An Exploratory Study in Four States</b> (<a href="/files/epw_paper.pdf" target="_blank"><em>Draft</em></a>) , (with <em>Reetika Khera</em>),  

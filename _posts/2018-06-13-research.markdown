@@ -6,14 +6,13 @@ tags: [jekyll]
 
 
 
-<!---
+
 <h3 id="job-market-paper">Job Market Paper</h3>
 <ul>
   <h4><b>Title of Paper</b>
 (<a href=" target="_blank"><em>Draft</em></a>)(<a href="" target="_blank"><em>Slides</em></a>)</h4>
 <details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
 </ul>
--->
 
 
 <h5 id="publications"><strong>Publications</strong></h4>

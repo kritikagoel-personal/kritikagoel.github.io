@@ -24,4 +24,4 @@ and diagnostics at public health facilities in Rajasthan during 2011–13, we re
 findings from fieldwork in Himachal Pradesh, Bihar and Jharkhand to bring out striking contrasts among these four northern states.</font></p></details>
 
 
-[An Internal Link](/kritikagoel.github.io/files/epw_paper.pdf)
+[An Internal Link](https://github.com/kritikagoel/kritikagoel.github.io/blob/master/files/epw_paper.pdf)

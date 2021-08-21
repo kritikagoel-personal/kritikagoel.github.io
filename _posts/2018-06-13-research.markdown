@@ -18,6 +18,7 @@ tags: [jekyll]
 <h3 id="jmp"><strong>Job Market Paper</strong></h4>
 <ul>
   <h4><b>The welfare effects of price discrimination when product entry is endogenous; the case of implantable medical devices ,
+</ul>
 
 
 <h5 id="publications"><strong>Publications</strong></h4>

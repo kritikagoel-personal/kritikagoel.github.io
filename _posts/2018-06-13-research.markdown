@@ -22,6 +22,13 @@ tags: [jekyll]
 -->
 
 
+<h3 id="job-market-paper">Job Market Paper</h3>
+<ul>
+  <h4><b>Title of Paper</b>
+</ul>
+
+  
+  
 <h3 id="publications"><strong>Publications</strong></h3>
 <ul>
   <h4><b>Public Health Facilities in North India:An Exploratory Study in Four States</b> (<a href="/files/epw_paper.pdf" target="_blank"><em>Draft</em></a>) , (with <em>Reetika Khera</em>),  

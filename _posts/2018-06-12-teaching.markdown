@@ -5,7 +5,6 @@ tags: [jekyll]
 ---
 <h4 id="boston college"><strong>Boston College</strong></h4>
 <p>I have been a teaching assistant for the following courses -
-  <ul>
 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
@@ -17,7 +16,6 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 
- <ul>
 
  <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019</em>
 <li>Statistics Lab (Undergraduate) &middot; <em>Spring 2020</em> </li>

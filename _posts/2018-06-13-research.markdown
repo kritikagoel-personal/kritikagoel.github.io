@@ -35,6 +35,8 @@ tags: [jekyll]
     
 <!---
  <h4 id="working">Work in progress</h4>
+ <h5><b>Drug acquisitions and access to sales representatives</b> 
+
 -->
   
  <h4 id="publications">Publications</h4>

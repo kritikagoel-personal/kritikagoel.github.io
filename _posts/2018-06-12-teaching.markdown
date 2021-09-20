@@ -10,7 +10,9 @@ tags: [jekyll]
 -->
 <ul>
  <li> Microeconomic Theory I and II (PhD Level)  &middot; <em>2018-2019</em>   </li>
-  <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019</em>
+<p>I have been an instructor for the following courses -
 
+ <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019</em>
 <li>Statistics Lab (Undergraduate) &middot; <em>Spring 2020</em> </li>
+<li>Econometrics Lab (Undergraduate) &middot; <em>Fall 2021</em> </li>
 

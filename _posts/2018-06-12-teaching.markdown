@@ -9,7 +9,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul>
- <li> Microeconomic Theory I and II (PhD Level)  &middot; <em>2018-2019</em>   </li>
+ <li> Microeconomic Theory I and II (PhD Level)  &middot; <em>2018-2019</em>   
 <ul>
 
 <p> I have been an instructor for the following courses -

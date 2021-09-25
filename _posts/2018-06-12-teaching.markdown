@@ -13,13 +13,13 @@ tags: [jekyll]
 <br>
  <br>
 
-<p> I have been an instructor for the following courses -
+<p> I have been an instructor for the following courses 
   <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul>
 
- <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019</em></li>
+ <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019</em></li> (<a href="" target="_blank">Course evaluations</a>)
  
 <li>Statistics Lab (Undergraduate) &middot; <em>Spring 2020</em> </li>
 

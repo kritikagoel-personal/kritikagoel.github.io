@@ -19,7 +19,7 @@ tags: [jekyll]
 -->
 <ul>
 
- <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019</em></li> (<a href="" target="_blank">Course evaluations</a>)
+ <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019</em></li>(<a href="/files/epw_paper.pdf" target="_blank"><em>Course Evaluations</em></a>)
  
 <li>Statistics Lab (Undergraduate) &middot; <em>Spring 2020</em> </li>
 

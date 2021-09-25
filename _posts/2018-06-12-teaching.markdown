@@ -16,7 +16,6 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 
-
  <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019</em>
 <li>Statistics Lab (Undergraduate) &middot; <em>Spring 2020</em> </li>
 <li>Econometrics Lab (Undergraduate) &middot; <em>Fall 2021</em> </li>

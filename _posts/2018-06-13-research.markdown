@@ -35,7 +35,7 @@ tags: [jekyll]
 
    <h4 id="working">Work in progress</h4>
  <h5><b>Drug acquisitions and firm efficiencies in marketing</b> (with <em>Motaz Al-Chanati</em>), 
-  <details><summary>Abstract:</summary><p><font size="2">In this project, we document novel evidence on the presence of an important source of efficiency from drug acquisitions: access to the sales representative networks of the acquiring firm. We use the context of 13 drug acquisitions by 11 firms from 2015-2016 to document three facts: First, compared to other drugs in the same class as an acquired drug, physician detailing for a drug goes up after it is acquired. Second, after an acquisition, physicians that were already being marketed to for the other drugs of the acquirer are disproportionately more likely to be marketed to for the acquired drug.  Third, an increase in physician detailing for a drug after an acquisition is associated with an increase in its prescriptions.  </font></p></details>
+  <details><summary>Abstract:</summary><p><font size="2">In this project, we document novel evidence on a source of efficiency from drug acquisitions: access to the sales representative networks of the acquiring firm. We use the context of 13 drug acquisitions by 11 firms from 2015-2016 to document three facts: First, compared to other drugs in the same class as an acquired drug, physician detailing for a drug goes up after it is acquired. Second, after an acquisition, physicians that were already being marketed to for the other drugs of the acquirer are disproportionately more likely to be marketed to for the acquired drug.  Third, an increase in physician detailing for a drug after an acquisition is associated with an increase in its prescriptions.  </font></p></details>
 
     
   

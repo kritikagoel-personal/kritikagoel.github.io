@@ -10,7 +10,6 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
   
-<br>
  <br>
 
 <p> I have been an instructor for the following courses 
@@ -29,5 +28,9 @@ tags: [jekyll]
  <li>Statistics Lab (Undergraduate) &middot; <em>Spring 2020-2021</em> </li>(<a href="/files/ECON115008_2021S_Discussion Group--Statistics_Kritika_Goel_f466c480-36e1-41b8-94ce-25fe70f77e11en-US.pdf" target="_blank"><em>Course Evaluations 1</em></a>)
  
 <ul>
+ <br>
 
+<p> Awards
+ Donald J. White Teaching Excellence Award, 2020
+ 
  

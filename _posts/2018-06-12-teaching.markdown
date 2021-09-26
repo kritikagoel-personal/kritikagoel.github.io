@@ -26,7 +26,7 @@ tags: [jekyll]
 
  <li>Econometrics Lab (Undergraduate) &middot; <em>Fall 2020-2021</em> </li>(<a href="/files/ECON222701_2021F_Discussion Group Econometric Methods_Kritika_Goel_d88a036d-49b3-472d-8601-e1dc37db6967en-US.pdf" target="_blank"><em>Course Evaluations 1</em></a>) (<a href="ECON222705_2021F_Discussion Group Econometric Methods_Kritika_Goel_ad218a29-3676-4466-b94b-3783e3e61891en-US.pdf" target="_blank"><em>Course Evaluations 2</em></a>) (<a href="ECON222708_2021F_Discussion Group Econometric Methods_Kritika_Goel_db409842-3510-424e-ad93-bfa47237442den-US.pdf" target="_blank"><em>Course Evaluations 3</em></a>)
  
- <li>Statistics Lab (Undergraduate) &middot; <em>Spring 2020-2021</em> </li>(<a href="/files/ECON115002_2021S_Discussion Group--Statistics_Kritika_Goel_220c78da-899a-416d-b272-0676cb5fa7c4en-US.pdf" target="_blank"><em>Course Evaluations 1</em></a>) (<a href="/files/ECON115008_2021S_Discussion Group--Statistics_Kritika_Goel_f466c480-36e1-41b8-94ce-25fe70f77e11en-US.pdf" target="_blank"><em>Course Evaluations 2</em></a>)
+ <li>Statistics Lab (Undergraduate) &middot; <em>Spring 2020-2021</em> </li>(<a href="/files/ECON115008_2021S_Discussion Group--Statistics_Kritika_Goel_f466c480-36e1-41b8-94ce-25fe70f77e11en-US.pdf" target="_blank"><em>Course Evaluations 1</em></a>)
  
 <ul>
 

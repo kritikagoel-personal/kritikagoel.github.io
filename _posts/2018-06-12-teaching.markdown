@@ -5,16 +5,12 @@ tags: [jekyll]
 ---
 <h4 id="boston college"><strong>Boston College</strong></h4>
 <p>I have been a teaching assistant for the following courses -
-  <ul>
-
+ <ul>
  <li> Microeconomic Theory I and II (PhD Level)  &middot; <em>2018-2019</em>   
-
 </ul>
   <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
-   <br>
-
  <br>
 
 <p> I have been an instructor for the following courses 
@@ -22,7 +18,6 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul>
-
  <li>Statistics Lab (Undergraduate) &middot; <em>Fall 2019-2020</em></li>(<a href="/files/ECON115007_2020F_Discussion Group--Statistics_Kritika_Goel_a306b28b-2e48-4f51-9449-f23f1e0648d4en-US.pdf" target="_blank"><em>Course Evaluations 1</em></a>) (<a href="/files/ECON115008_2020F_Discussion Group--Statistics_Kritika_Goel_8ab89e2c-8380-436e-8a2b-2740f667c08ben-US.pdf" target="_blank"><em>Course Evaluations 2</em></a>)
  
 <li>Statistics Lab (Undergraduate) &middot; <em>Spring 2019-2020</em> </li>(<a href="/files/ECON115002_2020S_Discussion Group--Statistics_Kritika_Goel_42d60313-71a9-45d4-a104-d7bd8e207ffden-US.pdf" target="_blank"><em>Course Evaluations 1</em></a>) (<a href="/files/ECON115003_2020S_Discussion Group--Statistics_Kritika_Goel_a6be2abe-bad5-46e1-b0b0-e4306673e153en-US.pdf" target="_blank"><em>Course Evaluations 2</em></a>)

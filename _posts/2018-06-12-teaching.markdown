@@ -31,6 +31,6 @@ tags: [jekyll]
  <br>
 
 <p> Awards
- Donald J. White Teaching Excellence Award, 2020
+<li> Donald J. White Teaching Excellence Award, 2020
  
  

@@ -47,3 +47,6 @@ tags: [jekyll]
 <details><summary>Abstract:</summary><p><font size="2">Following the introduction of universal access to free medicines
 and diagnostics at public health facilities in Rajasthan during 2011–13, we revisited the facilities surveyed by Banerjee et al (2004), and present the changes over the last decade. We find substantial improvement in infrastructure and the patient utilisation rate, but abysmally low utilisation of facilities primarily due to high absenteeism. We also present
 findings from fieldwork in Himachal Pradesh, Bihar and Jharkhand to bring out striking contrasts among these four northern states.</font></p></details>
+    
+    
+    

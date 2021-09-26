@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 <h4 id="boston college"><strong>Boston College</strong></h4>
-<p>I have been a teaching assistant for the following courses -
+<p>I have been a teaching assistant for the following course Microeconomic Theory I and II (PhD Level)
  <ul>
  <li> Microeconomic Theory I and II (PhD Level)  &middot; <em>2018-2019</em>   
 </ul>

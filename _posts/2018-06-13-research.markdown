@@ -29,8 +29,8 @@ tags: [jekyll]
 <ul>
 -->
 
- <h4 id="jmp">Job Market Paper</h4>
-  <h5><strong>The Welfare Effects of Price Discrimination under Endogenous Product Offerings: the Case of Implantable Medical Devices</strong> (<em>coming soon</em>)
+ <h3 id="jmp">Job Market Paper</h3>
+  <h4><strong>The Welfare Effects of Price Discrimination under Endogenous Product Offerings: the Case of Implantable Medical Devices</strong> (<em>coming soon</em></h4>)
   
   <h5><strong>Abstract:</strong> Implantable medical device manufacturers are able to segment their markets (third-degree price discriminate) by setting different prices for the same product in different hospitals. I use the context of a type of implantable medical device known as Implantable Cardioverter Defibrillators (ICDs) to analyze the welfare effects of market segmentation, allowing manufacturers' product offerings to be endogenously determined. My results show that under a uniform pricing policy, prices are higher on average, as manufacturers tend to price products to their inelastic consumers. However, they indirectly segment their markets by delaying the exit of some of their older, cheaper products, and targeting them to their elastic consumers. As a result of 1) increased product variety and 2) the competition effect of a rival's additional product, hospital surplus under uniform pricing can increase by up to 3.4% relative to the price discrimination case. However, the purchase of ICDs equipped with a superior technology drops by up to 26.3%.
 

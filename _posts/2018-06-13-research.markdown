@@ -45,9 +45,9 @@ and diagnostics at public health facilities in Rajasthan during 2011–13, we re
 findings from fieldwork in Himachal Pradesh, Bihar and Jharkhand to bring out striking contrasts among these four northern states. </h6>
     
  <h4 id="awards">Awards</h4>
-    <li> Washington Center for Equitable Growth, Doctoral Grant <em>($15,000)</em>
-     <li>One semester dissertation fellowship, Boston College        
-    <li> Felter Family Fund Summer Dissertation Fellowship, Boston College 
+  <h5> Washington Center for Equitable Growth, Doctoral Grant <em>($15,000)</em></h5>
+  <h5>One semester dissertation fellowship, Boston College     </h5>   
+  <h5> Felter Family Fund Summer Dissertation Fellowship, Boston College </h5> 
     
 <!---
    <h4 id="working">Work in progress</h4>

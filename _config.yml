@@ -1,13 +1,12 @@
 # Site settings
 title: Kritika Goel
 description: 5th Year PhD Candidate, Department of Economics, Boston College 
-I am on the job market in 2021-2022, and will be available for interviews at the ASSA 2022
 url: 'https://kritikagoel.github.io'
 baseurl: ""
 google_analytics: 'UA-3769691-2'
 # disqus_shortname: 'your-disqus-name'
 
-author:
+author: I am on the job market in 2021-2022, and will be available for interviews at the ASSA 2022
   name: 'Kritika Goel'
   email: goelk@bc.edu
 

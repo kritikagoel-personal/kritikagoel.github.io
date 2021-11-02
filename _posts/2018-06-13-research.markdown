@@ -30,7 +30,7 @@ tags: [jekyll]
 -->
 
  <h4 id="jmp">Job Market Paper</h4>
- <h5><strong>Price Discrimination and Product Variety: the Case of Implantable Medical Devices</strong><em>(<a href="/files/jmp_draft10.pdf" target="_blank"><em>Link</em></a>)</em></h5>
+ <h5><strong>Price Discrimination and Product Variety: the Case of Implantable Medical Devices</strong><em>(<a href="/files/Goel_JMP.pdf" target="_blank"><em>Link</em></a>)</em></h5>
  <h6><strong>Abstract:</strong> Implantable medical device manufacturers are able to directly price discriminate by setting different prices for the same product in different hospitals. I analyze the welfare effects of this form of price discrimination in the case of Implantable Cardioverter Defibrillators (ICDs). I find that if ICD manufacturers switch to uniform pricing, prices increase on average, which causes a decline in hospital welfare and manufacturer profits. Allowing manufacturers to indirectly price discriminate by strategically delaying the exit of older products causes an increase in product variety. As a result, net hospital surplus increases by 3.4% relative to price discrimination, but the consumption of new, higher quality ICDs drops by 19.3%. Relative to price discrimination, manufacturer profits under uniform pricing decline by 6.6%-12.5% </h6> 
 
  <h4 id="working">Work in progress</h4>

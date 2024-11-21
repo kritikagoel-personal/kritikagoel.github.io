@@ -3,6 +3,6 @@ title:  "About"
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am a Senior Associate in the Antitrust & Competiiton Practice at Charles River Associates. I completed my PhD from the Department of Economics at Boston College in 2022. My research interests are in the fields of Industrial Organization and Health Economics.
+I am a Senior Associate in the Antitrust & Competiiton Practice at Charles River Associates. I completed my PhD from the Department of Economics at Boston College in 2022. 
 
 Before joining Boston College, I completed my Masters from Delhi School of Economics in 2015.
